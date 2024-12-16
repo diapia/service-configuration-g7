@@ -1,4 +1,6 @@
-#spring.datasource.url=jdbc:postgresql://localhost:5432/bdsecurityg7
-#spring.datasource.username=postgres
-#spring.datasource.password=cerebro
-#key.signature=/bWGhlI9C9JniV7+O/ePxL694AWOhpgYfaulNYDTbWL/Qmooy5oIR/j/Mmr63zS/Q+rqROfG1HXqYPn3w/onTA==
+{
+  "spring.datasource.url":"jdbc:postgresql://localhost:5432/bdsecurityg7",
+  "spring.datasource.username":"postgres",
+  "spring.datasource.password":"cerebro",
+  "key.signature":"/bWGhlI9C9JniV7+O/ePxL694AWOhpgYfaulNYDTbWL/Qmooy5oIR/j/Mmr63zS/Q+rqROfG1HXqYPn3w/onTA=="
+}
